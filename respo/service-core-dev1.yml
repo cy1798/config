@@ -8,8 +8,8 @@ spring:
   rabbitmq:
     host: 172.17.250.200
     port: 5672
-    username: guest
-    password: guest
+    username: admin
+    password: admin123
   cloud:
     bus:
       enabled: true
